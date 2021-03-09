@@ -34,7 +34,7 @@
 "WHITELIST" = "القائمة البيضاء";
 "BLACKLIST" = "القائمة السوداء";
 "SEND_READ_RECEIPTS_BUTTON" = "إظهار مؤشر قراءة الرسالة";
-"SEND_DELIVERY_RECEIPTS_BUTTON" = "Send Delivery Receipts";
+"SEND_DELIVERY_RECEIPTS_BUTTON" = "إرسال مؤشر وصول الرسالة";
 "SEND_TYPING_INDICATOR_BUTTON" = "إظهار مؤشر الكتابة";
 "SEND_RECORDING_INDICATOR_BUTTON" = "إظهار مؤشر التسجيل";
 
@@ -75,8 +75,8 @@
 
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_LABEL" = "شريط حالات في قائمة الدردشات";
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_DESC" = "عرض كل حالات جهات اتصالك داخل شريط أعلى قائمة الدردشات.";
-"STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "Message";
-"STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "Contact Info";
+"STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "رسالة";
+"STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "معلومات جهةالاتصال ";
 
 "STATUS_SHOW_STATUSES_ON_CHATS_LABEL" = "الحالات في الدردشات";
 "STATUS_SHOW_STATUSES_ON_CHATS_DESC" = "عرض حالات جهات اتصالك والوصول إليها من صور ملفاتهم الشخصية في الدردشات.";
@@ -112,23 +112,23 @@
 
 "STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "تعطيل إظهار رؤية الحالة";
 "STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "نقل الحالات التي تمت مشاهدتها إلى أسفل";
-"STATUS_DISABLE_AUTO_MARK_VIEWED_WHITELIST_LABEL" = "Force Send Viewed to...";
+"STATUS_DISABLE_AUTO_MARK_VIEWED_WHITELIST_LABEL" = "فرض إرسال المشاهدة إلى...";
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "تعطيل إظهار رؤية الحالة لحالات جهات الاتصال وجعلها يدوية عن طريق الضغط على أيقونة الصح التي ستصبح موجودة في الجهة السفلية اليسرى لكل حالة.";
 
-"STATUS_ARCHIVE_LABEL" = "My Statuses Archive";
-"STATUS_ARCHIVE_DESC" = "This will create an archive of all the statuses you upload including all viewers";
-"STATUS_ARCHIVE_NAVIGATION_BUTTON" = "Archive";
-"STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ did not view any of your statuses";
-"STATUS_ARCHIVE_NO_ARCHIVED_STATUSES_MESSAGE" = "You did not post any statuses yet";
-"STATUS_ARCHIVE_VIEWERS_BUTTON" = "Viewers";
-"STATUS_ARCHIVE_DROPDOWN_ALL_STATUSES" = "All Statuses";
-"STATUS_ARCHIVE_DROPDOWN_ADD_CONTACT" = "Add Contact";
-"STATUS_ARCHIVE_VIEWERS_TITLE" = "Viewers";
-"STATUS_ARCHIVE_VIEWERS_PLURAL_TEXT" = "Viewers";
-"STATUS_ARCHIVE_VIEWERS_SINGULAR_TEXT" = "Viewer";
-"STATUS_ARCHIVE_VIEWERS_UPLOADED_ON_TEXT" = "Uploaded on";
-"STATUS_ARCHIVE_VIEWERS_DELETED_ON_TEXT" = "You deleted it on";
-"STATUS_ARCHIVE_VIEWERS_DELETE_STATUS_BUTTON" = "Delete Status";
+"STATUS_ARCHIVE_LABEL" = "أرشفة حالاتي";
+"STATUS_ARCHIVE_DESC" = "سيؤدي هذا إلى إنشاء أرشيف لجميع الحالات التي تحمّلها بما في ذلك جميع المشاهدين";
+"STATUS_ARCHIVE_NAVIGATION_BUTTON" = "الأرشيف";
+"STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ لم تتم مشاهدة أياً من حالاتك";
+"STATUS_ARCHIVE_NO_ARCHIVED_STATUSES_MESSAGE" = "لم تقم بنشر حالات حتى الآن";
+"STATUS_ARCHIVE_VIEWERS_BUTTON" = "المشاهدات";
+"STATUS_ARCHIVE_DROPDOWN_ALL_STATUSES" = "كل الحالات";
+"STATUS_ARCHIVE_DROPDOWN_ADD_CONTACT" = "إضافة جهة اتصال";
+"STATUS_ARCHIVE_VIEWERS_TITLE" = "المشاهدات";
+"STATUS_ARCHIVE_VIEWERS_PLURAL_TEXT" = "المشاهدات";
+"STATUS_ARCHIVE_VIEWERS_SINGULAR_TEXT" = "المشاهدة";
+"STATUS_ARCHIVE_VIEWERS_UPLOADED_ON_TEXT" = "تم الرفع على";
+"STATUS_ARCHIVE_VIEWERS_DELETED_ON_TEXT" = "حالات قمت بحذفها";
+"STATUS_ARCHIVE_VIEWERS_DELETE_STATUS_BUTTON" = "حذف الحالات";
 
 "STATUS_CONTACT_GROUPS_DESC" = "إضافة خيار لإنشاء مجموعات و تحديد/إلغاء تحديد جهات اتصالك بسهولة.";
 "STATUS_CONTACT_GROUPS_LABEL" = "إظهار مجموعات جهات الاتصال";
@@ -177,29 +177,29 @@
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "رسالة محذوفة";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "حذف #name هذه الرسالة في #date";
 
-"CHAT_DETAILS_SECTION_DESC" = "Add a section inside contact and group info pages to view more details about the chat";
-"CHAT_DETAILS_SECTION_LABEL" = "Chat Details Section";
-"CHAT_DETAILS_SECTION_TITLE" = "Chat Details";
-"CHAT_DETAILS_INF_HEADER" = "Info";
-"CHAT_DETAILS_PROFILE_NAME" = "Profile Name";
-"CHAT_DETAILS_ALL_MESSAGES_HEADER" = "Sent & Received Messages";
-"CHAT_DETAILS_ALL_SENT_MESSAGES_HEADER" = "Sent Messages";
-"CHAT_DETAILS_ALL_RECEIVED_MESSAGES_HEADER" = "Received Messages";
-"CHAT_DETAILS_ALL_MESSAGES_FOOTER" = "Media messages are of type Image/Video/Audio/GIF";
-"CHAT_DETAILS_ALL_MESSAGES" = "All Messages";
-"CHAT_DETAILS_ALL_MEDIA" = "All Media";
-"CHAT_DETAILS_TEXT" = "Text";
-"CHAT_DETAILS_IMAGE" = "Image";
-"CHAT_DETAILS_VIDEO" = "Video";
-"CHAT_DETAILS_VOICE" = "Voice";
-"CHAT_DETAILS_AUDIO" = "Audio";
-"CHAT_DETAILS_STICKER" = "Sticker";
-"CHAT_DETAILS_DOCUMENT" = "Document";
-"CHAT_DETAILS_GIF" = "GIF";
-"CHAT_DETAILS_CONTACT" = "Contact";
-"CHAT_DETAILS_LOCATION" = "Location";
-"CHAT_DETAILS_LINKS" = "Links";
-"CHAT_DETAILS_DELETED" = "Deleted";
+"CHAT_DETAILS_SECTION_DESC" = "إضافة قسم داخل صفحات معلومات جهات الاتصال والمجموعة لعرض مزيد من التفاصيل حول الدردشة";
+"CHAT_DETAILS_SECTION_LABEL" = "قيم تفاصيل المحادثة";
+"CHAT_DETAILS_SECTION_TITLE" = "تفاصيل المحادثة";
+"CHAT_DETAILS_INF_HEADER" = "معلومات";
+"CHAT_DETAILS_PROFILE_NAME" = "اسم الملف الشخصي";
+"CHAT_DETAILS_ALL_MESSAGES_HEADER" = "الرسائل المرسلة والمستلمة";
+"CHAT_DETAILS_ALL_SENT_MESSAGES_HEADER" = "تم الإرسال";
+"CHAT_DETAILS_ALL_RECEIVED_MESSAGES_HEADER" = "الرسائل المستلمة";
+"CHAT_DETAILS_ALL_MESSAGES_FOOTER" = "رسائل الوسائط هي من نوع صورة / فيديو / الصوت / صورة متحركة";
+"CHAT_DETAILS_ALL_MESSAGES" = "كل الرسائل ";
+"CHAT_DETAILS_ALL_MEDIA" = "كل الوسائط";
+"CHAT_DETAILS_TEXT" = "نص";
+"CHAT_DETAILS_IMAGE" = "صورة";
+"CHAT_DETAILS_VIDEO" = "فيديو";
+"CHAT_DETAILS_VOICE" = "صوت";
+"CHAT_DETAILS_AUDIO" = "مقطع صوتي";
+"CHAT_DETAILS_STICKER" = "ملصق";
+"CHAT_DETAILS_DOCUMENT" = "مستند";
+"CHAT_DETAILS_GIF" = "صورة متحركة";
+"CHAT_DETAILS_CONTACT" = "جهة اتصال";
+"CHAT_DETAILS_LOCATION" = "موقع";
+"CHAT_DETAILS_LINKS" = "روابط";
+"CHAT_DETAILS_DELETED" = "محذوفة";
 
 "ABOUT_ON_CHATS_DESC" = "إظهار الحالة الخاصة بجهة الاتصال أسفل اسمه في شريط صغير داخل المحادثة.";
 "ABOUT_ON_CHATS_LABEL" = "الحالة في المحادثة";
@@ -239,8 +239,8 @@
 "GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "عدد رسائل أعضاء المجموعة";
 "GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "عرض عدد رسائل كل عضو في المجموعة بجانب صورته الشخصية في معلومات المجموعة.";
 
-"BATCH_DELETE_MESSAGES_DESC" = "Adds a delete button in chat edit toolbar to delete multiple messages at once";
-"BATCH_DELETE_MESSAGES_LABEL" = "Batch Delete Messages";
+"BATCH_DELETE_MESSAGES_DESC" = "إضافة زر حذف في شريط أدوات تحرير الدردشة لحذف رسائل متعددة في وقت واحد";
+"BATCH_DELETE_MESSAGES_LABEL" = "دفع حذف الرسائل";
 
 "MESSAGE_FORWARD_DESC" = "إضافة زر تحويل جديد إلى شريط أدوات تحرير الدردشة والذي يمكن استخدامه في تحويل عدة رسائل إلى أكثر من جهة اتصال في كل مرة.";
 "MESSAGE_FORWARD_LABEL" = "تحويل الرسالة";
@@ -346,19 +346,19 @@
 
 "OTHER_ADDONS_LABEL" = "إضافات أخرى";
 
-"MANAGE_TABS_ENABLE_LABEL" = "Manage Tab Bar";
-"MANAGE_TABS_ORGANIZE_LABEL" = "Tab Bar Items";
-"MANAGE_TABS_DESC" = "Reorder and remove default WhatsApp tabs or add custom ones";
-"MANAGE_TABS_ORGANIZE_TITLE" = "Tab Bar Items";
-"MANAGE_TABS_ORGANIZE_ENABLED_SECTION_HEADER" = "Enabled";
-"MANAGE_TABS_ORGANIZE_ENABLED_SECTION_FOOTER" = "You can only enable 5 items at once";
-"MANAGE_TABS_ORGANIZE_DISABLED_SECTION_HEADER" = "Disabled";
-"MANABE_TAGS_ORGANIZE_CALLS_TAB_TITLE" = "Calls";
-"MANABE_TAGS_ORGANIZE_CAMERA_TAB_TITLE" = "Camera";
-"MANABE_TAGS_ORGANIZE_FAVORITES_TAB_TITLE" = "Favorites";
-"MANABE_TAGS_ORGANIZE_GROUPS_TAB_TITLE" = "Groups";
-"MANAGE_TABS_ORGANIZE_SYSTEM_LABEL" = "System";
-"MANAGE_TABS_ORGANIZE_RESET_DEFAULTS_BUTTON" = "Reset Defaults";
+"MANAGE_TABS_ENABLE_LABEL" = "إدارة شريط اللوحة";
+"MANAGE_TABS_ORGANIZE_LABEL" = "عناصر شريط اللوحة";
+"MANAGE_TABS_DESC" = "إعادة ترتيب وإزالة علامات التبويب الافتراضية أو إضافة تخصيص";
+"MANAGE_TABS_ORGANIZE_TITLE" = "عناصر شريط اللوحة";
+"MANAGE_TABS_ORGANIZE_ENABLED_SECTION_HEADER" = "تم التفعيل";
+"MANAGE_TABS_ORGANIZE_ENABLED_SECTION_FOOTER" = "بإمكانك تفعيل خمة فقط لمرة واحدة";
+"MANAGE_TABS_ORGANIZE_DISABLED_SECTION_HEADER" = "تم إلغاء التفعيل";
+"MANABE_TAGS_ORGANIZE_CALLS_TAB_TITLE" = "المكالمات";
+"MANABE_TAGS_ORGANIZE_CAMERA_TAB_TITLE" = "كاميرا";
+"MANABE_TAGS_ORGANIZE_FAVORITES_TAB_TITLE" = "المفضلات";
+"MANABE_TAGS_ORGANIZE_GROUPS_TAB_TITLE" = "المجموعات";
+"MANAGE_TABS_ORGANIZE_SYSTEM_LABEL" = "النظام";
+"MANAGE_TABS_ORGANIZE_RESET_DEFAULTS_BUTTON" = "استعادة الافترضيات";
 
 "GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "إضافة زر جديد عند إنشاء مجموعة/قائمة رسالة جماعية يمكنك من خلاله تحديد/إلغاء تحديد جميع جهات اتصالك.\nربما يؤدي هذا أيضًا إلى إمكانية تجاوز حد ٢٥٦ جهة اتصال.\nملاحظة: قد لا يكون من الممكن أن تضيف أكثر من ٢٥٦ جهة اتصال ولكن لم لا تجرب ذلك.";
 "GROUP_AND_BROADCAST_SELECT_ALL_LABEL" = "زر اختيار الكل في المجموعات/قوائم الرسائل الجماعية";
@@ -439,12 +439,12 @@
 "SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "إلغاء حظر جهة الاتصال";
 "SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "مشاركة صورة من الويب";
 "SHARE_SHEET_PAYMENT_BUTTON" = "إرسال الدفع";
-"SHARE_SHEET_FULL_SCREENSHOT_BUTTON" = "Full Screenshot";
+"SHARE_SHEET_FULL_SCREENSHOT_BUTTON" = "التقاط كامل الشاشة";
 
-"SHARE_SHEET_FULL_SCREENSHOT_ALERT_MESSAGE" = "This will include only the newer messages from current position, you should scroll up to your starting position and then screenshot.";
-"SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "Screenshot";
-"SHARE_SHEET_FULL_SCREENSHOT_SUCCESS_MESSAGE" = "Saved Successfully";
-"SHARE_SHEET_FULL_SCREENSHOT_IMAGE_NOT_CREATED_MESSAGE" = "Image Not Created";
+"SHARE_SHEET_FULL_SCREENSHOT_ALERT_MESSAGE" = "هذه سوف تشمل فقط الرسائل الحديثة من الموضع الحالي، يجب عليك التمرير إلى أعلى إلى موضع البداية الخاص بك ومن ثم التقاط الشاشة.";
+"SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "لقطة الشاشة";
+"SHARE_SHEET_FULL_SCREENSHOT_SUCCESS_MESSAGE" = "تم الحفظ بنجاح";
+"SHARE_SHEET_FULL_SCREENSHOT_IMAGE_NOT_CREATED_MESSAGE" = "لم يتم إنشاء الصورة";
 
 "SAVE_PROFILE_PHOTOS_LABEL" = "حفظ الصور الشخصية";
 "SAVE_PROFILE_PHOTOS_DESC" = "اضغط مطولًا على الصور الشخصية لحفظها بعد إزالة واتساب لزر الحفظ الخاص بها.";
@@ -501,17 +501,17 @@
 "MUTE_SOUND_LABEL" = "كتم الأصوات";
 "MUTE_SOUND_KEY_CLICKS_LABEL" = "كتم نقرات لوحة المفاتيح";
 
-"HIDE_WEB_SETTINGS_ROW_LABEL" = "Hide WhatsApp Web";
-"HIDE_WEB_SETTINGS_ROW_DESC" = "Remove WhatsApp Web section from settings";
+"HIDE_WEB_SETTINGS_ROW_LABEL" = "اخفاء واتساب ويب";
+"HIDE_WEB_SETTINGS_ROW_DESC" = "إزالة قسم واتساب ويب من الإعدادات";
 
 "HIDE_CHAT_BUTTONS_DESC" = "إخفاء أزرار الكاميرا، التسجيل، والملصقات داخل الدردشة.";
 "HIDE_CHAT_CAMERA_BUTTON_LABEL" = "إخفاء زر الكاميرا";
 "HIDE_CHAT_MIC_BUTTON_LABEL" = "إخفاء زر الميكروفون";
 "HIDE_CHAT_STICKERS_BUTTON_LABEL" = "إخفاء زر الملصقات";
 
-"HIDE_CHAT_CONTACT_PICTURE_DESC" = "Hide your contacts profile pictures from chats and chat list";
-"HIDE_CHAT_CONTACT_PICTURE_LABEL" = "Hide Picture in Chats";
-"HIDE_CHAT_LIST_CONTACT_PICTURE_LABEL" = "Hide Pictures in Chat List";
+"HIDE_CHAT_CONTACT_PICTURE_DESC" = "اخفاء صور الملفات الشخصية لجهات الاتصال في المحادثات وقائمة المحادثات";
+"HIDE_CHAT_CONTACT_PICTURE_LABEL" = "اخفاء الصور في المحادثات";
+"HIDE_CHAT_LIST_CONTACT_PICTURE_LABEL" = "اخفاء الصور في قائمة المحادثات";
 
 "HIDE_CHAT_CALL_BUTTONS_DESC" = "إخفاء أزرار الاتصال داخل الدردشات.";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "إخفاء زر الاتصال الصوتي";
@@ -643,7 +643,7 @@
 
 "AUTO_REPLY_LABEL" = "الرد التلقائي";
 "AUTO_REPLY_ENABLE_LABEL" = "تمكين";
-"AUTO_REPLY_DESC" = "عند التمكين، كلما تلقيت رسالة من محادثة، ستقوم Watusi بتصفح الردود التلقائية الممكَّنة للعثور على المتطابقة منها. يمكن إرسال رد تلقائي واحد أو أكثر إذا كانت تكوينات تلك الردود التلقائية تتطابق مع الرسالة الواردة أو المرسل.";
+"AUTO_REPLY_DESC" = "عند التمكين، كلما تلقيت رسالة من محادثة، ستقوم Watusi بتصفح الردود التلقائية الممكَّنة للعثور على المتطابقة منها. يمكن إرسال رد تلقائي واحد أو أكثر إذا كانت تكوينات تلك الردود التلقائية تتطابق مع الرسالة الواردة أو المرسل.";
 
 "AUTO_REPLY_LIST_TITLE" = "الردود التلقائية";
 
@@ -777,14 +777,14 @@
 /* Contacts Spoofing */
 
 "CONTACTS_SPOOFING_LABEL" = "Contacts Spoofing";
-"CONTACTS_SPOOFING_ENABLE_LABEL" = "Enable";
-"CONTACTS_SPOOFING_CONTACTS" = "Contacts";
-"CONTACTS_SPOOFING_ADD_CONTACT" = "Add Contact";
-"CONTACTS_SPOOFING_NAME_HEADER" = "Name";
-"CONTACTS_SPOOFING_PROFILE_PICTURE_HEADER" = "Profile Picture";
-"CONTACTS_SPOOFING_FIRST_NAME_PLACEHOLDER" = "First Name";
-"CONTACTS_SPOOFING_LAST_NAME_PLACEHOLDER" = "Last Name";
-"CONTACTS_SPOOFING_CHOOSE_PHOTO" = "Choose Photo";
+"CONTACTS_SPOOFING_ENABLE_LABEL" = "تفعيل";
+"CONTACTS_SPOOFING_CONTACTS" = "جهات الاتصال";
+"CONTACTS_SPOOFING_ADD_CONTACT" = "إضافة جهة اتصال";
+"CONTACTS_SPOOFING_NAME_HEADER" = "الاسم";
+"CONTACTS_SPOOFING_PROFILE_PICTURE_HEADER" = "صورة الملف الشخصي";
+"CONTACTS_SPOOFING_FIRST_NAME_PLACEHOLDER" = "الاسم الأول";
+"CONTACTS_SPOOFING_LAST_NAME_PLACEHOLDER" = "الاسم الأخير";
+"CONTACTS_SPOOFING_CHOOSE_PHOTO" = "اختر صورة";
 
 
 /* Stickers */
@@ -954,7 +954,7 @@
 "DUPLICATE" = "تكرار";
 "EXPORT" = "تصدير";
 "PUBLISH" = "نشر";
-"RENAME" = "Rename";
+"RENAME" = "إعادة تسمية";
 "TO" = "إلى";
 "DISMISS" = "تجاهل";
 "DUPLICATE" = "تكرار";
